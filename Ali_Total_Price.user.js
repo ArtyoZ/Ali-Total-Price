@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Ali Total Price
-// @author       AndShy
+// @author       AndShya
 // @description  Shows Total Price on Aliexpress
 // @version      2.12r
 // @license      GPL-3.0
-// @namespace    https://github.com/AndShy
-// @homepageURL  https://github.com/AndShy/Ali-Total-Price
-// @downloadURL  https://github.com/AndShy/Ali-Total-Price/raw/master/Ali_Total_Price.user.js
+// @namespace    https://github.com/ArtyoZ
+// @homepageURL  https://github.com/ArtyoZ/Ali-Total-Price
+// @downloadURL  https://github.com/ArtyoZ/Ali-Total-Price/raw/master/Ali_Total_Price.user.js
 // @match        *://*.aliexpress.com/*
 // @match        *://*.aliexpress.ru/*
 // @grant        none
